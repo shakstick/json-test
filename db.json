@@ -1,0 +1,12 @@
+{
+	"users": [
+		{
+			"name": "shak",
+			"age": 20
+		},
+		{
+			"name": "shak1",
+			"age": 21
+		}
+	]
+}
